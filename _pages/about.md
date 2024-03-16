@@ -17,42 +17,51 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+This is Wenhao "Rubie" Yan (Chinese: 颜文豪), I am now working as a research assistant in College of Computer and Information Technology Engineering, Hohai University, starting in Summer 2023. I was born in Yangzhou, China. I received B.Eng from Yangzhou University, China, advised by [Prof. Guo](https://xxgcxy.yzu.edu.cn/info/1020/5987.htm) in 2018, and received M.Sc. from Muroran Institute of Technology, Japan, under the supervision of [Prof. Li](https://u.muroran-it.ac.jp/enes/~heli/index.html) in 2023. I was an employee of ZTE Corporation from 2018 to 2020, working on developing Big Data analysis workflow based on Kafka, Elasticsearch, and Spark.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My recent research interest includes Internet-of-Things (IoT), Generative Adversarial Networks (GANs), and Federated Learning (FL). Using the above techniques, I aim to build privacy responsible machine learning models for information sensitive areas like medicine or healthcare. The scattered distribution of user data in different clients brings training various challenges, therefore I am working to address these issues. I also pay attention to efficiency optimization of Federated Learning and Distributed Systems. I hope my works could help improving the real-world AI applications in the coming future.
 
+I am open to various kinds of collaboration, if you are interested in my research, please drop an email to **wh.yan(at)hhu.edu.cn** or **wh.yan(at)hotmail.com**.
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/fedimt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[An Efficient Imbalance-Aware Federated Learning Approach for Wearable Healthcare with Autoregressive Ratio Observation](https://arxiv.org/abs/2310.14784)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Wenhao Yan**, He Li, Kaoru Ota, Mianxiong Dong
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+[**arXiv**](https://arxiv.org/abs/2310.14784)
+[**code**](https://github.com/yanwunhao/FedImT)
+- Submiited to IEEE OJ-CS, under review. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Master Thesis: Federated Generalized Learning on Non-IID Medical Imaging with Virtual Homogeneous Generation and Adversarial Domain Adaptation](contents/thesis/fedvida.pdf)
+
+- [Bachelor Thesis: Cooperative Pursuit Path Generation Approach with Deep Reinforcement Learning for Multi-agent System in Confrontational Environment](contents/thesis/multiagent.pdf) (in Chinese) (Outstanding Undergraduate Dissertation Award of YZU) [**Code**](https://github.com/yanwunhao/Mutil-Agent-System-based-on-DQN) [**Award**](contents/awards/ouda.jpg)
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.11* [The 2nd Hokkaido Young Professionals Workshop **Best Student Presentation Award**](contents/awards/bpa1.jpg)
+- *2018.09* [Yangzhou University **2018 Outstanding Undergraduate Dissertation Award**](contents/awards/ouda.jpg)
+- *2018.06* [Jiangsu Municipal Commission of Economy and Informatization **2017 Jiangsu Software Scholarship**](contents/awards/softwarescholarship.jpg) (50 in 671)
+- *2017.10* National Scholarship (undergraduate) (Top 1%)
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Experiences
+- *2023.07 - now*, R.A., College of Computer and Information Technology Engineering, Hohai University, Jiangsu, China
+- *2020.10 - 2023.03*, M.Sc., Department of Sciences and Informatics, Muroran Institute of Technology, Hokkaido, Japan
+- *2018.07 - 2020.09*, Big Data Engineer, Dept. of Data Science and Artificial Intelligence, Shenzhen ZTE Netview Technology Co., Ltd, Jiangsu, China
+- *2014.09 - 2018.06*, B.Eng., College of Information Engineering, Yangzhou University, Jiangsu, China
+- *2011.09 - 2014.06*, Yangzhou High School, Jiangsu, China
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Workshops
+- *2022.11*, Federated Generalized Learning on Non-IID Medical Imaging Based on Domain Adaptation with Shared Virtual Source, *The 2nd Hokkaido Young Professionals Workshop*, **Best Student Presentation Award** [**Slide**](contents/slides/20221126.pdf) [**Award**](contents/awards/bpa1.jpg)
+- *2022.09*, AIを用いたUFMデータによるBOO/DU診断の一考案 (in Japanese) (co-author), *第29回日本排尿機能学会* [**Slide**](contents/slides/20220901.pdf) [**Acknowledgement**](contents/awards/smu.jpg)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Patents
+- ZL201610890222.4 [An automatic detection method for detecting rice diseases and its device](contents/patents/patent1.jpg)
+- ZL201621118536.4 [Duplex linear scanner control panel](contents/patents/patent2.jpg)
+- ZL201621118771.1 [An automatic leaf scanning control system](contents/patents/patent3.jpg)
