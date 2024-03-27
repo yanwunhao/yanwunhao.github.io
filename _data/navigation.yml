@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Featured Publications"
+    url: "/#featured-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"

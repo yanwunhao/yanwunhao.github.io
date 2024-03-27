@@ -24,7 +24,7 @@ My recent research interest includes Internet-of-Things (IoT), Generative Advers
 I am open to various kinds of collaboration, if you are interested in my research, please drop an email to **wh.yan(at)hhu.edu.cn** or **wh.yan(at)hotmail.com**.
 
 
-# 📝 Publications 
+# 📝 Featured Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/fedimt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
