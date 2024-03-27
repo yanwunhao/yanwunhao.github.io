@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   - title: "Featured Publications"
-    url: "/#featured-publications"
+    url: "/#-featured-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
