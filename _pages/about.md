@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-This is Wenhao "Rubie" Yan (Chinese: 颜文豪), I am now working as a research assistant in College of Computer and Information Technology Engineering, Hohai University, starting in Summer 2023. I was born in Yangzhou, China. I received B.Eng from Yangzhou University, China, advised by [Prof. Guo](https://xxgcxy.yzu.edu.cn/info/1020/5987.htm) in 2018, and received M.Sc. from Muroran Institute of Technology, Japan, under the supervision of [Prof. Li](https://u.muroran-it.ac.jp/enes/~heli/index.html) in 2023. I was an employee of ZTE Corporation from 2018 to 2020, working on developing Big Data analysis workflow based on Kafka, Elasticsearch, and Spark.
+This is Wenhao "Rubie" Yan (Chinese: 颜文豪), I am now working as a research student in Sophia University under supervision of [Prof. Gonsalves], starting in Summer 2023. I was born in Yangzhou, China. I received B.Eng from Yangzhou University, China, advised by [Prof. Guo](https://xxgcxy.yzu.edu.cn/info/1020/5987.htm) in 2018, and received M.Sc. from Muroran Institute of Technology, Japan, under the supervision of [Prof. Li](https://u.muroran-it.ac.jp/enes/~heli/index.html) in 2023. I was an employee of ZTE Corporation from 2018 to 2020, working on developing Big Data analysis workflow based on Kafka, Elasticsearch, and Spark.
 
 My recent research interest includes Internet-of-Things (IoT), Generative Adversarial Networks (GANs), and Federated Learning (FL). Using the above techniques, I aim to build privacy responsible machine learning models for information sensitive areas like medicine or healthcare. The scattered distribution of user data in different clients brings training various challenges, therefore I am working to address these issues. I also pay attention to efficiency optimization of Federated Learning and Distributed Systems. I hope my works could help improving the real-world AI applications in the coming future.
 
-I am open to various kinds of collaboration, if you are interested in my research, please drop an email to **wh.yan(at)hhu.edu.cn** or **wh.yan(at)hotmail.com**.
+I am open to various kinds of collaboration, if you are interested in my research, please drop an email to **w-yan-7g7@eagle.sophia.ac.jp** or **wh.yan(at)hotmail.com**.
 
 
 # 📝 Featured Publications 
@@ -51,7 +51,8 @@ I am open to various kinds of collaboration, if you are interested in my researc
 - *2017.10* National Scholarship (undergraduate) (Top 1%)
 
 # 📖 Experiences
-- *2023.07 - now*, R.A., College of Computer and Information Technology Engineering, Hohai University, Jiangsu, China
+- *2024.04 - now*, Sophia University, Tokyo, Japan
+- *2023.07 - 2024.01*, R.A., College of Computer and Information Technology Engineering, Hohai University, Jiangsu, China
 - *2020.10 - 2023.03*, M.Sc., Department of Sciences and Informatics, Muroran Institute of Technology, Hokkaido, Japan
 - *2018.07 - 2020.09*, Big Data Engineer, Dept. of Data Science and Artificial Intelligence, Shenzhen ZTE Netview Technology Co., Ltd, Jiangsu, China
 - *2014.09 - 2018.06*, B.Eng., College of Information Engineering, Yangzhou University, Jiangsu, China

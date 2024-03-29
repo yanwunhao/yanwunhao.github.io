@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wenhao Yan"
-description              : "Research Assistant in College of Computer and Information Technology Engineering, Hohai University"
+description              : "Research Student, Sophia University"
 repository               : "yanwunhao/yanwunhao.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Wenhao Yan"
   avatar           : "images/yanwenhao.jpg"
   bio              : 
-  location         : "Jiangsu, China"
+  location         : "Tokyo, Japan"
   employer         :
   pubmed           : 
   googlescholar    : 
