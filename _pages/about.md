@@ -51,8 +51,8 @@ I am open to various kinds of collaboration, if you are interested in my researc
 - *2017.10* National Scholarship (undergraduate) (Top 1%)
 
 # 📖 Experiences
-- *2024.04 - now*, Sophia University, Tokyo, Japan
-- *2023.07 - 2024.01*, R.A., College of Computer and Information Technology Engineering, Hohai University, Jiangsu, China
+- *2024.04 - now*, Research Student, Sophia University, Tokyo, Japan
+- *2023.07 - 2024.01*, Researcher, College of Computer and Information Technology Engineering, Hohai University, Jiangsu, China
 - *2020.10 - 2023.03*, M.Sc., Department of Sciences and Informatics, Muroran Institute of Technology, Hokkaido, Japan
 - *2018.07 - 2020.09*, Big Data Engineer, Dept. of Data Science and Artificial Intelligence, Shenzhen ZTE Netview Technology Co., Ltd, Jiangsu, China
 - *2014.09 - 2018.06*, B.Eng., College of Information Engineering, Yangzhou University, Jiangsu, China
