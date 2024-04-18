@@ -21,7 +21,7 @@ This is Wenhao "Rubie" Yan (Chinese: 颜文豪, Japanese: ガン　ブンゴウ)
 
 My recent research interest includes Internet-of-Things (IoT), Generative Adversarial Networks (GANs), and Federated Learning (FL). Using the above techniques, I aim to build privacy responsible machine learning models for information sensitive areas like medicine or healthcare. The scattered distribution of user data in different clients brings training various challenges, therefore I am working to address these issues. I also pay attention to efficiency optimization of Federated Learning and Distributed Systems. I hope my works could help improving the real-world AI applications in the coming future.
 
-I am open to various kinds of collaboration, if you are interested in my research, please drop an email to **w-yan-7g7@eagle.sophia.ac.jp** or **wh.yan(at)hotmail.com**.
+I am open to various kinds of collaboration, if you are interested in my research, please drop an email to **wh-yan@eagle.sophia.ac.jp** or **wh.yan(at)hotmail.com**.
 
 
 # 📝 Featured Publications 
@@ -51,7 +51,7 @@ I am open to various kinds of collaboration, if you are interested in my researc
 - *2017.10* National Scholarship (undergraduate) (Top 1%)
 
 # 📖 Experiences
-- *2024.04 - now*, Research Student, Sophia University, Tokyo, Japan
+- *2024.04 - now*, Research Student, Department of Information and Computer Sciences, Sophia University, Tokyo, Japan
 - *2023.07 - 2024.01*, Researcher, College of Computer and Information Technology Engineering, Hohai University, Jiangsu, China
 - *2020.10 - 2023.03*, M.Sc., Department of Sciences and Informatics, Muroran Institute of Technology, Hokkaido, Japan
 - *2018.07 - 2020.09*, Big Data Engineer, Dept. of Data Science and Artificial Intelligence, Shenzhen ZTE Netview Technology Co., Ltd, Jiangsu, China
